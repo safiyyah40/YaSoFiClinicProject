@@ -1,1 +1,0 @@
-"# KlinikYaSoFI_Project" 
